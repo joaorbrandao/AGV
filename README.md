@@ -1,13 +1,13 @@
 # Autonomous Guided Vehicle (AGV)
 
-Development of an Autonomous Guided Vehicle that follows a line.
--ATmega88 programmed in C
--DC motors controled by Pulse Width Modulation (PWM)
--CNY70 sensors read with Analog/Digital Converter (ADC)
+Development of an Autonomous Guided Vehicle that follows a line. <br>
+-ATmega88 programmed in C <br>
+-DC motors controled by Pulse Width Modulation (PWM) <br>
+-CNY70 sensors read with Analog/Digital Converter (ADC) <br>
 -PCB design for the entire system
 
 For: [Instituto Superior de Engenharia do Porto](www.isep.ipp.pt)  
-Date: March 2015 - June 2015
+Date: March 2015 - June 2015 <br>
 [Demo](https://youtu.be/-_XiPSVJOJc)
 
 * **All the comments are in Portuguese**
@@ -24,7 +24,9 @@ Have a bug or an issue with this theme? [Open a new issue](https://github.com/jo
 
 ## Creator
 
-This project was created by [**João Brandão**](https://joaorbrandao.github.io)
+This project was created by :<br>
+[**João Brandão**](https://joaorbrandao.github.io) <br>
+[**José Pedro Silva**](https://pt.linkedin.com/in/josepedroasilva/en)
 
 * https://github.com/joaorbrandao
 
