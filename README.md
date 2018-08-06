@@ -1,6 +1,6 @@
 # Autonomous Guided Vehicle (AGV)
 
-[![GitHub license](https://img.shields.io/github/license/joaorbrandao/LogSys.svg)](https://github.com/joaorbrandao/LogSys/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/joaorbrandao/AGV.svg)](https://github.com/joaorbrandao/AGV/blob/master/LICENSE)
 
 Development of an Autonomous Guided Vehicle that follows a line. <br>
 -ATmega88 programmed in C <br>
