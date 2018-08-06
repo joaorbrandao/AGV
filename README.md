@@ -1,5 +1,7 @@
 # Autonomous Guided Vehicle (AGV)
 
+[![GitHub license](https://img.shields.io/github/license/joaorbrandao/LogSys.svg)](https://github.com/joaorbrandao/LogSys/blob/master/LICENSE)
+
 Development of an Autonomous Guided Vehicle that follows a line. <br>
 -ATmega88 programmed in C <br>
 -DC motors controled by Pulse Width Modulation (PWM) <br>
